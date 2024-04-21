@@ -1,7 +1,7 @@
 # BD-projeto-E1
 First University Project for Databases
 
-# Guide to Collaborating on ER diagram
+## Guide to Collaborating on ER diagram
 
 To collaborate on the Draw.io diagram located in **`diagrams/`**:
 
