@@ -1,0 +1,3 @@
+3.2- Em que especialidade é efetuado o maior número de consultas?
+
+3.3- Qual o número da segurança social e o nome dos pacientes que tiveram mais que uma consulta num dia?
